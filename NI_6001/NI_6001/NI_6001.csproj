@@ -59,6 +59,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AI1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AI1.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="AI1.User.cs">
+      <DependentUpon>AI1.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="AI2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AI2.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="AI2.User.cs">
+      <DependentUpon>AI2.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="AI3.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AI3.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="AI3.User.cs">
+      <DependentUpon>AI3.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="AI4.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AI4.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="AI4.User.cs">
+      <DependentUpon>AI4.mxb</DependentUpon>
+    </Compile>
     <Compile Include="Analog_Input.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -74,6 +106,14 @@
     </Compile>
     <Compile Include="Anlog_Output.User.cs">
       <DependentUpon>Anlog_Output.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="DaqTask1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DaqTask1.mxb</DependentUpon>
+    </Compile>
+    <Compile Include="DaqTask1.User.cs">
+      <DependentUpon>DaqTask1.mxb</DependentUpon>
     </Compile>
     <Compile Include="Digital_Input.cs">
       <AutoGen>True</AutoGen>
@@ -112,6 +152,22 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="AI1.mxb">
+      <Generator>NationalInstruments.MeasurementStudio.Tools.DotNET.MxbCodeGenerator.2010</Generator>
+      <LastGenOutput>AI1.cs</LastGenOutput>
+    </None>
+    <None Include="AI2.mxb">
+      <Generator>NationalInstruments.MeasurementStudio.Tools.DotNET.MxbCodeGenerator.2010</Generator>
+      <LastGenOutput>AI2.cs</LastGenOutput>
+    </None>
+    <None Include="AI3.mxb">
+      <Generator>NationalInstruments.MeasurementStudio.Tools.DotNET.MxbCodeGenerator.2010</Generator>
+      <LastGenOutput>AI3.cs</LastGenOutput>
+    </None>
+    <None Include="AI4.mxb">
+      <Generator>NationalInstruments.MeasurementStudio.Tools.DotNET.MxbCodeGenerator.2010</Generator>
+      <LastGenOutput>AI4.cs</LastGenOutput>
+    </None>
     <None Include="Analog_Input.mxb">
       <Generator>NationalInstruments.MeasurementStudio.Tools.DotNET.MxbCodeGenerator.2010</Generator>
       <LastGenOutput>Analog_Input.cs</LastGenOutput>
@@ -119,6 +175,10 @@
     <None Include="Anlog_Output.mxb">
       <Generator>NationalInstruments.MeasurementStudio.Tools.DotNET.MxbCodeGenerator.2010</Generator>
       <LastGenOutput>Anlog_Output.cs</LastGenOutput>
+    </None>
+    <None Include="DaqTask1.mxb">
+      <Generator>NationalInstruments.MeasurementStudio.Tools.DotNET.MxbCodeGenerator.2010</Generator>
+      <LastGenOutput>DaqTask1.cs</LastGenOutput>
     </None>
     <None Include="Digital_Input.mxb">
       <Generator>NationalInstruments.MeasurementStudio.Tools.DotNET.MxbCodeGenerator.2010</Generator>

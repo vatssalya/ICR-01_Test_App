@@ -7,3 +7,13 @@ c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI
 c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.exe.licenses
 c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.exe
 c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.pdb
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\bin\Debug\NI_6001.exe
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\bin\Debug\NI_6001.pdb
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\obj\Debug\NI_6001.csprojResolveAssemblyReference.cache
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\obj\Debug\NI_6001.Form1.resources
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\obj\Debug\NI_6001.Properties.Resources.resources
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\obj\Debug\NI_6001.csproj.GenerateResource.Cache
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\obj\Debug\NI_6001.exe.licenses
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\obj\Debug\NI_6001.exe
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\NI_6001\ICR-01_Test_App\NI_6001\NI_6001\obj\Debug\NI_6001.pdb

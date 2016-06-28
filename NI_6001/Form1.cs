@@ -96,7 +96,7 @@ namespace NI_6001
             try
             {
                 NationalInstruments.AnalogWaveform<double>[] acquiredData = analog_InputComponent1.Read();
-                waveformGraph1.PlotWaveforms(acquiredData);
+               // waveformGraph1.PlotWaveforms(acquiredData);
             }
             catch (NationalInstruments.DAQmx.DaqException ex)
             {
