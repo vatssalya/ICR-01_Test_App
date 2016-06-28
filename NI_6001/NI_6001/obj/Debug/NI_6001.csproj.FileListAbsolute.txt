@@ -1,0 +1,9 @@
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\bin\Debug\NI_6001.exe
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\bin\Debug\NI_6001.pdb
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\bin\Debug\NationalInstruments.UI.Styles3D.dll
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.Form1.resources
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.Properties.Resources.resources
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.csproj.GenerateResource.Cache
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.exe.licenses
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.exe
+c:\users\vaka\documents\visual studio 2010\Projects\NI_6001\NI_6001\obj\Debug\NI_6001.pdb

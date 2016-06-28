@@ -1,0 +1,10 @@
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\bin\Debug\New_MPLAB.exe
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\bin\Debug\New_MPLAB.pdb
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\bin\Debug\NationalInstruments.UI.Styles3D.dll
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\obj\Debug\New_MPLAB.Form1.resources
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\obj\Debug\New_MPLAB.Properties.Resources.resources
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\obj\Debug\New_MPLAB.csproj.GenerateResource.Cache
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\obj\Debug\New_MPLAB.exe.licenses
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\obj\Debug\New_MPLAB.exe
+c:\users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\obj\Debug\New_MPLAB.pdb
+C:\Users\vaka\documents\visual studio 2010\Projects\New_MPLAB\New_MPLAB\obj\Debug\New_MPLAB.csprojResolveAssemblyReference.cache
